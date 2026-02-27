@@ -41,6 +41,8 @@ This repository serves as the **v1.0 Specification** for SPT. I am inviting arch
 - Efficient Vector Drift detection algorithms.
 - Multi-branch state management in high-concurrency environments.
 ---
+## 6.中文读者 (Chinese Readers):
+我是一名母亲，也是一名业余开发者。SPT 协议诞生于我多线程生活的实战痛点。如果你也厌倦了 AI 的线性思维，欢迎在 Issue 区用中文或英文与我交流。
 ---
 **Author:** [Xiao (@amiixiao)]  
 **License:** [MIT](LICENSE)
